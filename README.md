@@ -1,4 +1,4 @@
-<h2 align="center">Hi 👋! My name is Mangesh Lemte, and I'm from Pune. I am currently working as a web developer at eClerx, where I have been for the last 2 years.</h2>
+<h2 align="center">Hi 👋! My name is Mangesh Lemte, and I'm from Pune. I am currently working as a Frontend developer at eClerx, where I have been for the last 2.5 years.</h2>
 
 ---
 
